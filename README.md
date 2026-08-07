@@ -24,7 +24,10 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./skills-popup-v2.svg" loading="lazy" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skills-rotating-dark.svg">
+  <img src="./skills-rotating-light.svg" loading="lazy" />
+</picture>
 </div>
 
 ---
