@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-  <img src="./intro-popup_1.svg" loading="lazy" />
+  <img src="./intro-popup-v2.svg" loading="lazy" />
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
-<img src="./about-me-popup.svg" loading="lazy" />
+<img src="./about-me-popup-v2.svg" loading="lazy" />
 
 ---
 
