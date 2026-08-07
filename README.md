@@ -26,11 +26,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,numpy,pandas,sklearn,tensorflow,git&perline=8" />
-</div>
-
-<p align="center"><sub>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; C &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; TensorFlow &nbsp;•&nbsp; Git</sub></p>
+<div align="center"> <img src="./assets/skills-popup.svg" loading="lazy" /> </div>
 
 ---
 
