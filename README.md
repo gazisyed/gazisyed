@@ -34,8 +34,28 @@
 
 ### 🚀 Featured Project
 
-**[Movie Recommendation System](https://github.com/gazisyed/movie_recommendation_sys)**
-A content-based movie recommender built with Python and Streamlit. Uses cosine similarity on a 5,000-movie TMDB dataset to suggest the top 10 similar movies, with posters fetched live from the TMDB API.
+<table>
+<tr>
+<td width="100%">
+
+#### 🎬 [Movie Recommendation System](https://github.com/gazisyed/movie_recommendation_sys)
+
+A content-based movie recommender that suggests the top 10 similar movies using cosine similarity on a 5,000-movie TMDB dataset — with posters fetched live from the TMDB API and a clean Streamlit interface for instant results.
+
+**Highlights**
+- 🔍 Content-based filtering using cosine similarity on vectorized movie metadata
+- 🎨 Interactive Streamlit UI with live poster fetching via TMDB API
+- 📊 Trained on a curated dataset of 5,000 movies for fast, relevant recommendations
+
+`Python` `Scikit-learn` `Pandas` `Streamlit` `TMDB API`
+
+<a href="https://github.com/gazisyed/movie_recommendation_sys">
+  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 `Python` `Scikit-learn` `Pandas` `Streamlit` `TMDB API`
 
 ---
