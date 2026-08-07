@@ -1,69 +1,96 @@
-<h1 align="center">Hi there, I'm Syed Gazi Abedi 👋</h1>
+<div align="center">
 
-<h3 align="center">CSE (Data Science & AI) Undergraduate | Aspiring Data Analyst</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Syed+Gazi+Abedi;CSE+(Data+Science+%26+AI)+Undergraduate;Aspiring+Data+Analyst;Turning+raw+data+into+insights" alt="Typing SVG" />
 
-<p align="center">
+<p>
   🎓 3rd Year @ Muffakham Jah College of Engineering and Technology, Hyderabad<br>
-  📊 Turning raw data into insights, one dataset at a time<br>
-  🌱 Currently strengthening my Machine Learning fundamentals
+  🌱 Deepening my Machine Learning fundamentals — currently working through Scikit-learn<br>
+  🎯 Open to Data Analyst roles / internships
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:syedgazi130@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:syedgazi130@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+</div>
 
-### 🧑‍💻 About Me
+<br>
 
-- 🔭 Currently working on strengthening my **Machine Learning** and **Data Analysis** skill set
-- 💼 Completed a remote internship as an **AI Software Development Intern** at Cyber Tech NA Inc. (New York, USA)
-- 📈 Certified **Associate Data Analyst** — DataCamp
-- 🎯 Actively looking for **Data Analyst** opportunities/internships
-- ⚡ Fun fact: I like solving problems with data before I trust my gut
+## 🧑‍💻 About Me
 
----
+```yaml
+name: Syed Gazi Abedi
+role: Data Analyst (aspiring) | ML Learner
+education: B.E. CSE - Data Science & AI, MJCET (2027)
+current_focus: Scikit-learn, statistical analysis, SQL
+past_experience: AI Software Development Intern @ Cyber Tech NA Inc. (Remote, USA)
+certification: Associate Data Analyst - DataCamp (2026)
+```
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,c,git,github" />
+</div>
 
-**Libraries & Tools**
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<div align="center">
 
----
+| Category | Tools |
+|---|---|
+| **Languages** | Python · SQL · C |
+| **Data Analysis** | NumPy · Pandas |
+| **Machine Learning** | Scikit-learn |
+| **Version Control** | Git · GitHub |
 
-### 🚀 Featured Project
+</div>
 
-**[Movie Recommendation System](https://github.com/gazisyed/movie_recommendation_sys)**
-A content-based movie recommender built with Python and Streamlit. Uses cosine similarity on a 5,000-movie TMDB dataset to suggest the top 10 similar movies, with posters fetched live from the TMDB API.
-`Python` `Scikit-learn` `Pandas` `Streamlit` `TMDB API`
+<br>
 
----
+## 🚀 Featured Project
 
-### 📫 Let's Connect
+<div align="center">
 
-I'm always open to learning opportunities, collaborations, and Data Analyst roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syed-gazi-abedi-617859274) or drop me an [email](mailto:syedgazi130@gmail.com).
+### [🎬 Movie Recommendation System](https://github.com/gazisyed/movie_recommendation_sys)
 
-<p align="center">
+A content-based recommendation engine using cosine similarity on a 5,000-movie TMDB dataset — built with `Python` `Scikit-learn` `Pandas` `Streamlit` `TMDB API`.
+Users select a movie and instantly get the top 10 similar titles with live-fetched posters.
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gazisyed&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gazisyed&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazisyed&layout=compact&hide_border=true" />
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gazisyed&theme=flat&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+Open to conversations on data analysis, machine learning, and internship/entry-level opportunities. Reach out via [LinkedIn](https://www.linkedin.com/in/syed-gazi-abedi-617859274) or [email](mailto:syedgazi130@gmail.com).
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
-</p>
+</div>
