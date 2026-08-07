@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" keyTimes="0;0.5;1" dur="1s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+    <rect x="10" y="10" width="50" height="50" rx="11" fill="#0A66C2" />
+    <rect x="22" y="26" width="7" height="24" fill="#ffffff" />
+    <circle cx="25.5" cy="19" r="4.2" fill="#ffffff" />
+    <path d="M35 50 V33.5 C35 28.5 38 27 41.5 27 C45.5 27 48 29.5 48 34 V50 H41 V35.5 C41 34 40.3 33 38.7 33 C37.2 33 36.3 34 36.3 35.5 V50 Z" fill="#ffffff" />
+  </g>
+</svg>
