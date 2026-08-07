@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="90" viewBox="0 0 220 90">
+  <a xlink:href="https://www.linkedin.com/in/syed-gazi-abedi-617859274" target="_blank">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" keyTimes="0;0.5;1" dur="1s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+      <image href="https://skillicons.dev/icons?i=linkedin" x="45" y="10" width="50" height="50" />
+    </g>
+  </a>
+  <a xlink:href="mailto:syedgazi130@gmail.com" target="_blank">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -14; 0 0" keyTimes="0;0.5;1" dur="1s" begin="0.15s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+      <image href="https://skillicons.dev/icons?i=gmail" x="125" y="10" width="50" height="50" />
+    </g>
+  </a>
+</svg>
