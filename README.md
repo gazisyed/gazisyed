@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/skills-popup-v2.svg" loading="lazy" />
+  <img src="./skills-popup-v2.svg" loading="lazy" />
 </div>
 
 ---
