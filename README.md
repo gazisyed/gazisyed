@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="./intro-popup-1.svg" loading="lazy" />
+  <img src="./intro-popup_1.svg" loading="lazy" />
 </div>
 
 ---
