@@ -65,24 +65,9 @@ A content-based movie recommender that suggests the top 10 similar movies using 
 I'm always open to learning opportunities, collaborations, and Data Analyst roles.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:syedgazi130@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+  <img src="./connect-icons-bouncing.svg" width="220" />
 </p>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./bouncing-ball-dark.svg">
-  <img src="./bouncing-ball-light.svg" width="140" loading="lazy" />
-</picture>
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
-</p>="center">
   <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
 </p>
