@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Syed Gazi Abedi 👋</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Hi+there%2C+I'm+Syed+Gazi+Abedi+%F0%9F%91%8B" alt="Typing SVG" />
+
+</div>
 
 <h3 align="center">CSE (Data Science & AI) Undergraduate | Aspiring Data Analyst</h3>
 
@@ -6,15 +10,6 @@
   🎓 3rd Year @ Muffakham Jah College of Engineering and Technology, Hyderabad<br>
   📊 Turning raw data into insights, one dataset at a time<br>
   🌱 Currently strengthening my Machine Learning fundamentals
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:syedgazi130@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -31,24 +26,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,c,numpy,pandas,sklearn,tensorflow,git&perline=8" />
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-</p>
-
-**Libraries & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<p align="center"><sub>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; C &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Scikit-learn &nbsp;•&nbsp; TensorFlow &nbsp;•&nbsp; Git</sub></p>
 
 ---
 
@@ -62,7 +44,17 @@ A content-based movie recommender built with Python and Streamlit. Uses cosine s
 
 ### 📫 Let's Connect
 
-I'm always open to learning opportunities, collaborations, and Data Analyst roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syed-gazi-abedi-617859274) or drop me an [email](mailto:syedgazi130@gmail.com).
+I'm always open to learning opportunities, collaborations, and Data Analyst roles.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:syedgazi130@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
