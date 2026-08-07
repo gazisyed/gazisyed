@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="120" viewBox="0 0 200 120">
+  <ellipse cx="100" cy="108" rx="26" ry="6" fill="#000000" opacity="0.12">
+    <animate attributeName="rx" values="26;14;26" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+    <animate attributeName="opacity" values="0.12;0.04;0.12" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+  </ellipse>
+  <circle cx="100" cy="20" r="20" fill="#2563EB">
+    <animate attributeName="cy" values="20;92;20" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+    <animate attributeName="ry" values="1;1;1" dur="1s" repeatCount="indefinite" />
+  </circle>
+  <ellipse cx="93" cy="13" rx="6" ry="4" fill="#ffffff" opacity="0.5">
+    <animate attributeName="cy" values="13;85;13" keyTimes="0;0.5;1" dur="1s" repeatCount="indefinite" calcMode="spline" keySplines="0.33 0 0.67 1;0.33 0 0.67 1" />
+  </ellipse>
+</svg>
