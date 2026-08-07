@@ -74,6 +74,15 @@ I'm always open to learning opportunities, collaborations, and Data Analyst role
   </a>
 </p>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./bouncing-ball-dark.svg">
+  <img src="./bouncing-ball-light.svg" width="140" loading="lazy" />
+</picture>
+</div>
+
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
+</p>="center">
   <img src="https://komarev.com/ghpvc/?username=gazisyed&style=flat-square&color=blue" alt="profile views" />
 </p>
