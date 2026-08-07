@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="168" viewBox="0 0 820 168" font-family="Segoe UI, Verdana, Arial, sans-serif">
+  <g opacity="0" transform="translate(-14,0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.0s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.6s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.17 0.84 0.44 1" />
+    <text x="410.0" y="34.599999999999994" font-size="19" text-anchor="middle"><tspan font-weight="700" fill="#1F2937">CSE (Data Science &amp; AI) Undergraduate | Aspiring Data Analyst</tspan></text>
+  </g>
+  <g opacity="0" transform="translate(-14,0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.22s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.6s" begin="0.22s" fill="freeze" calcMode="spline" keySplines="0.17 0.84 0.44 1" />
+    <text x="410.0" y="72.6" font-size="19" text-anchor="middle"><tspan fill="#1F2937">🎓 3rd Year @ Muffakham Jah College of Engineering and Technology, Hyderabad</tspan></text>
+  </g>
+  <g opacity="0" transform="translate(-14,0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.44s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.6s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.17 0.84 0.44 1" />
+    <text x="410.0" y="110.6" font-size="19" text-anchor="middle"><tspan fill="#1F2937">📊 Turning raw data into insights, one dataset at a time</tspan></text>
+  </g>
+  <g opacity="0" transform="translate(-14,0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.66s" fill="freeze" />
+    <animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.6s" begin="0.66s" fill="freeze" calcMode="spline" keySplines="0.17 0.84 0.44 1" />
+    <text x="410.0" y="148.6" font-size="19" text-anchor="middle"><tspan fill="#1F2937">🌱 Currently strengthening my Machine Learning fundamentals</tspan></text>
+  </g>
+</svg>
