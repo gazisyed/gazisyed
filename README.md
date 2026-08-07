@@ -5,13 +5,19 @@
 </div>
 
 <div align="center">
-  <img src="./intro-popup-v2.svg" loading="lazy" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./intro-popup-dark.svg">
+  <img src="./intro-popup-light.svg" loading="lazy" />
+</picture>
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
-<img src="./about-me-popup-v2.svg" loading="lazy" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./about-me-popup-dark.svg">
+  <img src="./about-me-popup-light.svg" loading="lazy" />
+</picture>
 
 ---
 
