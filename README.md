@@ -65,7 +65,13 @@ A content-based movie recommender that suggests the top 10 similar movies using 
 I'm always open to learning opportunities, collaborations, and Data Analyst roles.
 
 <p align="center">
-  <img src="./connect-icons-bouncing.svg" width="220" />
+  <a href="https://www.linkedin.com/in/syed-gazi-abedi-617859274">
+    <img src="./linkedin-bounce.svg" height="70" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:syedgazi130@gmail.com">
+    <img src="./gmail-bounce.svg" height="70" />
+  </a>
 </p>
 
 <p align="center">
