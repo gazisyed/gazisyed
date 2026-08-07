@@ -4,23 +4,14 @@
 
 </div>
 
-<h3 align="center">CSE (Data Science & AI) Undergraduate | Aspiring Data Analyst</h3>
-
-<p align="center">
-  🎓 3rd Year @ Muffakham Jah College of Engineering and Technology, Hyderabad<br>
-  📊 Turning raw data into insights, one dataset at a time<br>
-  🌱 Currently strengthening my Machine Learning fundamentals
-</p>
+<div align="center">
+  <img src="./intro-popup.svg" loading="lazy" />
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
-
-- 🔭 Currently working on strengthening my **Machine Learning** and **Data Analysis** skill set
-- 💼 Completed a remote internship as an **AI Software Development Intern** at Cyber Tech NA Inc. (New York, USA)
-- 📈 Certified **Associate Data Analyst** — DataCamp
-- 🎯 Actively looking for **Data Analyst** opportunities/internships
-- ⚡ Fun fact: I like solving problems with data before I trust my gut
+<img src="./about-me-popup.svg" loading="lazy" />
 
 ---
 
